@@ -1,14 +1,10 @@
 # Hoja-De-Vida
 
-<center>Hoja De Vida</center>
-
 # Datos Personales: 
 
-Nombre
-
+## Nombre
 
  - Jose Alberto Argote Chico
-
 
 ## Nu. De Documento
 
@@ -23,7 +19,6 @@ Nombre
 ## Telefono
 
  - 3188838844
-
 
 ## Correo y Fecha de nacimiento
  
