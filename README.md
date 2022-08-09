@@ -1,6 +1,6 @@
 # Hoja-De-Vida
+
 Proyecto Hoja de vida
-<center>Hoja De Vida</center>
 
 # Datos Personales: 
 
