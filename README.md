@@ -1,12 +1,12 @@
-# Hoja-De-Vida
-Proyecto Hoja de vida
-<center>Hoja De Vida</center>
+# <center>Hoja-De-Vida</center>
 
 # Datos Personales: 
 
-## Nombre
+Nombre
+
 
  - Jose Alberto Argote Chico
+
 
 ## Nu. De Documento
 
