@@ -1,4 +1,6 @@
 # Hoja-De-Vida
+Proyecto Hoja de vida
+<center>Hoja De Vida</center>
 
 # Datos Personales: 
 
@@ -19,6 +21,7 @@
 ## Telefono
 
  - 3188838844
+
 
 ## Correo y Fecha de nacimiento
  
